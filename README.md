@@ -1,4 +1,4 @@
-# stuff
+# cosmicice's stuff
 
 My stuff uploaded here for copyright purposes ;)
 
