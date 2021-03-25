@@ -2,4 +2,4 @@
 
 My stuff uploaded here for copyright purposes ;)
 
-Licensed Under [CC0-1.0 License](https://github.com/catcosmicice/stuff/blob/master/LICENSE).
+Licensed Under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.](https://github.com/catcosmicice/stuff/blob/master/LICENSE).
